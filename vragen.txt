@@ -1,0 +1,17 @@
+is dit hetzelfde als met javascript?
+
+Moet je dan ook een public $capOpen toevoegen?
+Dat mag ook
+
+public is class element zoals bij htnl
+
+__construction?
+
+this?
+waar kan ik die setintelligent vinden?
+
+opname terug kijken :(((
+
+
+
+
