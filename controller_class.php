@@ -7,7 +7,7 @@ class GameController{
     public $_depad = 1;
     public $_handgrip= 2;
     protected $_logo=1;
-    public $_name="hello world";
+    public $_name="";
     public function __construct($_name){
         
         $this->_name=$_name;
@@ -18,7 +18,7 @@ class GameController{
     }
 }
 class Button extends GameController{
-    public $_nameB="hello world";
+    public $_nameB="";
     public $_color;
     public $_shape;
     public $_width;
