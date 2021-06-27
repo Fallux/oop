@@ -1,0 +1,7 @@
+double = nauwkeurig in decimalen met gebruik van de komma in wiskunde
+integers = gehele getallen
+float= meerdere decimalen kan bevatten
+
+
+
+
